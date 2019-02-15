@@ -18,7 +18,7 @@ class Index extends React.Component {
     return (
       <div>
         <ComponentHeader/>
-        <BodyIndex prop1={123}/>
+        <BodyIndex/>
         <ComponentFooter/>
       </div>
     )

@@ -24,7 +24,7 @@ export default class BodyIndex extends React.Component{
 
     return (
       <section>
-        <h1>{this.state.username}</h1>
+        <h1>{this.state.username} {this.props.prop1}</h1>
       </section>
     )
   }
