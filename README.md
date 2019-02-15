@@ -6,3 +6,4 @@ react初上手
 03 react组件基础1 新建组件
 04 react组件2
 05 react生命周期的认识
+06 react state认识
